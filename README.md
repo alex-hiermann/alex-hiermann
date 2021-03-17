@@ -20,13 +20,13 @@ If you want to stay in touch with me, please check out the links below!
 
 <a href="https://github.com/alex-hiermann">
     <img style="padding-right: 5px;" align="center"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=alex-hiermann&bg_color=1d1f21&title_color=fefefe&text_color=c8c9cb">
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=alex-hiermann&bg_color=1d1f21&title_color=fefefe&text_color=c8c9cb&langs_count=10&layout=compact">
     </img>
 </a>
 
 <a href="https://github.com/alex-hiermann">
     <img style="padding-left: 5px;" align="center"
-        src="https://github-readme-stats.vercel.app/api?username=alex-hiermann&count_private=true&show_icons=true&bg_color=1d1f21&title_color=fefefe&text_color=c8c9cb&icon_color=deb39f">
+        src="https://github-readme-stats.vercel.app/api?username=alex-hiermann&count_private=true&show_icons=true&title_color=fefefe&bg_color=1d1f21&text_color=c8c9cb&">
     </img>
 </a>
 
