@@ -8,6 +8,12 @@ I am also working on a special project called [Let's catch Vuca][6], which is a 
 
 If you want to stay in touch with me, please check out the links below!
 
+## My skills
+
+- Backend: Java, PHP, Groovy, Scala
+- Frontend: HTML, CSS, JavaScript, JavaFX
+- Databases: SQL, SQLite, MS Access, MySQL
+
 ## Get in touch
 
 - Twitter: [twitter.com/GameAlexZocktYT][2]
