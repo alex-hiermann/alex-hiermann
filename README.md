@@ -14,7 +14,7 @@ If you want to stay in touch with me, please check out the links below!
 - Frontend: HTML, CSS, JavaScript, JavaFX
 - Databases: SQL, SQLite, MS Access, MySQL
 
-## Get in touch
+## Get in touch with me
 
 - Twitter: [twitter.com/GameAlexZocktYT][2]
 - Email: [alex.hiermann@gmx.com][3]
