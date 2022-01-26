@@ -17,7 +17,7 @@ If you want to stay in touch with me, please check out the links below!
 ## Get in touch with me
 
 - Twitter: [twitter.com/GameAlexZocktYT][2]
-- Email: [alex.hiermann@gmx.com][3]
+- Email: [alex.hiermann@gmx.at][3]
 - LinkedIn: [linkedin.com/in/alexander-hiermann/][4]
 - Instagram: [instagram.com/alex.hier/][5]
 
@@ -38,7 +38,7 @@ If you want to stay in touch with me, please check out the links below!
 
 [1]: https://www.linkedin.com/school/htl3r/
 [2]: https://twitter.com/GameAlexZocktYT
-[3]: mailto:alex.hiermann@gmx.com
+[3]: mailto:alex.hiermann@gmx.at
 [4]: https://www.linkedin.com/in/alexander-hiermann/
 [5]: https://www.instagram.com/alex.hier/
 [6]: www.catchvuca.com
