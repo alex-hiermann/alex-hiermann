@@ -10,7 +10,7 @@ If you want to stay in touch with me, please check out the links below!
 
 ## My skills
 
-- Backend: Java, PHP, Groovy, Scala, Python
+- Backend: Java, Python, PHP, Groovy, Scala
 - Frontend: HTML, CSS, JavaScript, JavaFX
 - Databases: SQL, SQLite, MS Access, MySQL
 
