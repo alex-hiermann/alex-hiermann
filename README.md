@@ -12,7 +12,7 @@ If you want to stay in touch with me, please check out the links below!
 
 - Backend: Java, Python, PHP, Groovy, Scala
 - Frontend: HTML, CSS, JavaScript, JavaFX
-- Databases: SQL, SQLite, MS Access, MySQL
+- Databases: SQL, Postgresql, MySQL, MariaDB, MongoDB
 
 ## Get in touch with me
 
