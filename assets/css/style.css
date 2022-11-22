@@ -1379,3 +1379,14 @@ section {
 #footer .credits {
   font-size: 13px;
 }
+
+#projects-list a{
+  margin: 0 0 0 50px;
+  font-family: "Raleway", sans-serif;
+  font-size: 14px;
+  font-weight: unset;
+  line-height: 90%;
+  color: #5d6a75;
+  display: block;
+  margin-inline-start: 0px;
+}
