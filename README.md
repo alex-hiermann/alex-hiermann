@@ -4,7 +4,7 @@ My name is Alexander Hiermann and I am a 18 year old student attending the [HTL3
 Right now my area of interest is about software- and network engineering, where I am also trying to educate myself beside my school routine.
 Here on GitHub you will find a few small projects that helped me to aquire some skills.
 
-I am also working on a special project called [Let's catch Vuca][6], which is a website, with very interesting posts that we are uploadling right now weekly.
+I am also working on my diploma thesis [Elbrus Analytics][6], which is a network analysis tool. Feel free to check it out! :)
 
 If you want to stay in touch with me, please check out the links below!
 
@@ -41,4 +41,4 @@ If you want to stay in touch with me, please check out the links below!
 [3]: mailto:alex.hiermann@gmx.at
 [4]: https://www.linkedin.com/in/alexander-hiermann/
 [5]: https://www.instagram.com/alex.hier/
-[6]: www.catchvuca.com
+[6]: https://www.elbrus-analytics.at
